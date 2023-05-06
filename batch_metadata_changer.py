@@ -28,6 +28,6 @@ def rename_audio_files(folder_path):
         play_audio(file_path)
 
 
-folder_path = r"C:\\Users\\harsh\Documents\\Python Projects\\music renamer\\testfiles"
+folder_path = r"C:\\path\\to\folder\\here"
 
 rename_audio_files(folder_path)
